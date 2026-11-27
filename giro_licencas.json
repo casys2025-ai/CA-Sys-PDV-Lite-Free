@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "gerado_em": "2026-11-27T14:05:49",
+  "gerado_em": "2026-11-27T14:06:05",
   "licencas": {
     "d0e89dbe60614ba4ea8519159ebfb6d1f645decf7a03198c0c1d4c61d2c25b12": {
       "plano": "Vitalícia",
       "validade": "",
-      "status": "Suspensa"
+      "status": "Ativa"
     },
     "8fd712e98a087a902086446e2e10a8d134ec938cc47a665a4ef28baac9b51fb9": {
       "plano": "Anual",
